@@ -18,14 +18,6 @@ Apasionado por el desarrollo de software, la lógica de programación y la creac
 
 ---
 
-### 📊 Mi Actividad en GitHub
-
-![Resumen de Ismx17] (https://github-readme-stats.vercel.app/api?username=Ismx17&show_icons=true&theme=tokyonight)
-
-![Lenguajes] (https://github-readme-stats.vercel.app/api/top-langs/?username=Ismx17&layout=compact&theme=tokyonight)
-
----
-
 ### 📫 Contacto
 - **LinkedIn:** www.linkedin.com/in/ismael-rosas-ros
 - **Email:** irosros933@gmail.com
