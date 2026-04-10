@@ -30,14 +30,6 @@ Apasionado por el **desarrollo de software** y la arquitectura de aplicaciones. 
 
 ---
 
-### 📈 Mi Actividad en GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ismx17&show_icons=true&theme=tokyonight&hide_border=true" alt="Ismx17 GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ismx17&layout=compact&theme=tokyonight&hide_border=true" alt="Ismx17 Top Langs" width="40%" />
-</p>
-
----
-
 ### 📫 Contacto y Redes
 <p align="left">
 <a href="https://www.linkedin.com/in/ismael-rosas-ros" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
