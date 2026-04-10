@@ -24,6 +24,3 @@ Apasionado por el desarrollo de software, la lógica de programación y la creac
 
 ---
 *“El código limpio siempre parece que ha sido escrito por alguien a quien le importa.”*
-
-![Sus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Ismx17&show_icons=true&theme=dracula)
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Ismx17&layout=compact&theme=dracula)
