@@ -18,12 +18,11 @@ Apasionado por el desarrollo de software, la lógica de programación y la creac
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
-Aquí puedes ver un resumen de mi actividad y los lenguajes que más utilizo:
+### 📊 Mi Actividad en GitHub
 
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=Ismx17&show_icons=true&theme=dracula&count_private=true)
+![Resumen de Ismx17] (https://github-readme-stats.vercel.app/api?username=Ismx17&show_icons=true&theme=tokyonight)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Ismx17&layout=compact&theme=dracula)
+![Lenguajes] (https://github-readme-stats.vercel.app/api/top-langs/?username=Ismx17&layout=compact&theme=tokyonight)
 
 ---
 
