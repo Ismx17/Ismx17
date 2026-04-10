@@ -18,6 +18,15 @@ Apasionado por el desarrollo de software, la lógica de programación y la creac
 
 ---
 
+### 📊 Mis Estadísticas de GitHub
+Aquí puedes ver un resumen de mi actividad y los lenguajes que más utilizo:
+
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=Ismx17&show_icons=true&theme=dracula&count_private=true)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Ismx17&layout=compact&theme=dracula)
+
+---
+
 ### 📫 Contacto
 - **LinkedIn:** www.linkedin.com/in/ismael-rosas-ros
 - **Email:** irosros933@gmail.com
