@@ -1,34 +1,45 @@
 # 👋 ¡Hola! Soy Ismael Rosas Ros
 
-### 👨‍💻 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)
-Apasionado por el desarrollo de software, la lógica de programación y la creación de soluciones eficientes. Actualmente enfocado en el ecosistema Java y el desarrollo móvil nativo.
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Estudiante_DAM-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Backend_%26_Mobile-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-Almería,_Spain-green?style=flat-square" />
+</p>
 
----
-
-### 🚀 Tecnologías y Herramientas
-- **Lenguajes:** Java, Kotlin, SQL (MySQL/Oracle)
-- **Entornos:** IntelliJ IDEA, Android Studio, VS Code
-- **Control de Versiones:** Git & GitHub
-- **Otros:** Programación Orientada a Objetos (POO), Diseño de Interfaces (UI/UX)
+### 👨‍💻 Sobre mí
+Apasionado por el **desarrollo de software** y la arquitectura de aplicaciones. Actualmente curso el Grado Superior en **Desarrollo de Aplicaciones Multiplataforma (DAM)**, donde perfecciono mi capacidad para resolver problemas complejos a través de código limpio y eficiente.
 
 ---
 
 ### 🛠️ Stack Tecnológico
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-### 📊 Mis Proyectos en DAM
-- ☕ **[Biblioteca_PROG]:** Sistema de gestión/lógica de negocio desarrollado en clase para una biblioteca.
+| Categoría | Tecnologías |
+| :--- | :--- |
+| **Lenguajes** | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-00758F?style=flat-square&logo=mysql&logoColor=white) |
+| **Mobile** | ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![XML](https://img.shields.io/badge/-XML-FFA500?style=flat-square&logo=xml&logoColor=white) |
+| **Herramientas** | ![Git](https://img.shields.io/badge/-Git-F05033?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![IntelliJ](https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white) ![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white) |
 
 ---
 
-### 📫 Contacto
-- **LinkedIn:** www.linkedin.com/in/ismael-rosas-ros
-- **Email:** irosros933@gmail.com
+### 🚀 Proyectos Destacados
+
+| Proyecto | Descripción | Tech Stack |
+| :--- | :--- | :--- |
+| **[Biblioteca_PROG](https://github.com/Ismx17/Biblioteca_PROG)** | Sistema integral de gestión de préstamos, usuarios y catálogo. | `Java` `POO` `Gestión de Datos` |
+| **[Nombre_Tu_Proximo_Repo]** | En desarrollo... | `Kotlin` `Android Studio` |
 
 ---
-*“El código limpio siempre parece que ha sido escrito por alguien a quien le importa.”*
+
+### 📈 Mi Actividad en GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ismx17&show_icons=true&theme=tokyonight&hide_border=true" alt="Ismx17 GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ismx17&layout=compact&theme=tokyonight&hide_border=true" alt="Ismx17 Top Langs" width="40%" />
+</p>
+
+---
+
+### 📫 Contacto y Redes
+<p align="left">
+<a href="https://www.linkedin.com/in/ismael-rosas-ros" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:irosros933@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
