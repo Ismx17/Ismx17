@@ -25,7 +25,7 @@ Apasionado por el **desarrollo de software** y la arquitectura de aplicaciones. 
 
 | Proyecto | Descripción | Tech Stack |
 | :--- | :--- | :--- |
-|**[Metroid2D](https://github.com/Ismx17/Metroid2D)** | Recreación de videojuego con mecánicas básicas | `C#` `Unity` `Game Dev` |
+|**[PixelMetroid2D](https://github.com/Ismx17/Metroid2D)** | Recreación de videojuego con mecánicas básicas | `C#` `Unity` `Game Dev` |
 | **[Biblioteca_PROG](https://github.com/Ismx17/Biblioteca_PROG)** | Sistema integral de gestión de préstamos, usuarios y catálogo. | `Java` `POO` `Gestión de Datos` |
 
 ---
