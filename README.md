@@ -21,7 +21,7 @@ Apasionado por el **desarrollo de software** y la arquitectura de aplicaciones. 
 
 ---
 
-### 🚀 Proyectos Destacados
+### 🚀 Proyectos Didácticos Destacados
 
 | Proyecto | Descripción | Tech Stack |
 | :--- | :--- | :--- |
