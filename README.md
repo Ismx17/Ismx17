@@ -26,7 +26,7 @@ Apasionado por el **desarrollo de software** and la arquitectura de aplicaciones
 | Proyecto | Descripción | Tech Stack |
 | :--- | :--- | :--- |
 | **[game-collection-backend](https://github.com/Ismx17/game-collection-backend)** | API REST robusta estructurada en tres capas (Controlador-Servicio-Repositorio) con control global de excepciones, validación de datos y persistencia real. | ![Spring](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) `JPA` `MySQL` |
-|**[PixelMetroid2D](https://github.com/Ismx17/Metroid2D)** | Recreación de videojuego con mecánicas básicas | `C#` `Unity` `Game Dev` |
+|**[pixel-metroid-2d](https://github.com/Ismx17/pixel-metroid-2d)** | Recreación de videojuego con mecánicas básicas | `C#` `Unity` `Game Dev` |
 | **[Biblioteca_PROG](https://github.com/Ismx17/Biblioteca_PROG)** | Sistema integral de gestión de préstamos, usuarios y catálogo. | `Java` `POO` `Gestión de Datos` |
 
 ---
