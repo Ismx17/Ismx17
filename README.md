@@ -7,7 +7,7 @@
 </p>
 
 ### 👨‍💻 Sobre mí
-Apasionado por el **desarrollo de software** y la arquitectura de aplicaciones. Actualmente curso el Grado Superior en **Desarrollo de Aplicaciones Multiplataforma (DAM)**, donde perfecciono mi capacidad para resolver problemas complejos a través de código limpio y eficiente.
+Apasionado por el **desarrollo de software** and la arquitectura de aplicaciones. Actualmente curso el Grado Superior en **Desarrollo de Aplicaciones Multiplataforma (DAM)**, donde perfecciono mi capacidad para resolver problemas complejos a través de código limpio y eficiente.
 
 ---
 
@@ -15,9 +15,9 @@ Apasionado por el **desarrollo de software** y la arquitectura de aplicaciones. 
 
 | Categoría | Tecnologías |
 | :--- | :--- |
-| **Lenguajes** | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-00758F?style=flat-square&logo=mysql&logoColor=white) |
+| **Lenguajes y BD** | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-00758F?style=flat-square&logo=mysql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
 | **Mobile** | ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![XML](https://img.shields.io/badge/-XML-FFA500?style=flat-square&logo=xml&logoColor=white) |
-| **Herramientas** | ![Git](https://img.shields.io/badge/-Git-F05033?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![IntelliJ](https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white) ![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white) |
+| **Frameworks y Herramientas** | ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05033?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![IntelliJ](https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white) ![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white) |
 
 ---
 
