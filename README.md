@@ -7,7 +7,7 @@
 </p>
 
 ### 👨‍💻 Sobre mí
-Apasionado por el **desarrollo de software** and la arquitectura de aplicaciones. Actualmente curso el Grado Superior en **Desarrollo de Aplicaciones Multiplataforma (DAM)**, donde perfecciono mi capacidad para resolver problemas complejos a través de código limpio y eficiente.
+Apasionado por el **desarrollo de software** y la arquitectura de aplicaciones. Actualmente curso el Grado Superior en **Desarrollo de Aplicaciones Multiplataforma (DAM)**, donde perfecciono mi capacidad para resolver problemas complejos a través de código limpio y eficiente.
 
 ---
 
